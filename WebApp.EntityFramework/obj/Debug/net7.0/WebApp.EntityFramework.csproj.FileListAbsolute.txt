@@ -1,0 +1,17 @@
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\WebApp.EntityFramework.csproj.AssemblyReference.cache
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\WebApp.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\WebApp.EntityFramework.AssemblyInfoInputs.cache
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\WebApp.EntityFramework.AssemblyInfo.cs
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\WebApp.EntityFramework.csproj.CoreCompileInputs.cache
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\bin\Debug\net7.0\WebApp.EntityFramework.deps.json
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\bin\Debug\net7.0\WebApp.EntityFramework.dll
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\bin\Debug\net7.0\WebApp.EntityFramework.pdb
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\bin\Debug\net7.0\WebApp.Entities.dll
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\bin\Debug\net7.0\WebApp.Entities.pdb
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\WebApp.EntityFramework.csproj.CopyComplete
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\WebApp.EntityFramework.dll
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\refint\WebApp.EntityFramework.dll
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\WebApp.EntityFramework.pdb
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\ref\WebApp.EntityFramework.dll
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\bin\Debug\net7.0\WebApp.EntityFramework.runtimeconfig.json
+E:\Amnil\Internship\MovieApp\WebApp.EntityFramework\obj\Debug\net7.0\WebApp.EntityFramework.genruntimeconfig.cache

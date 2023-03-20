@@ -1,0 +1,14 @@
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\WebApp.Entities.csproj.AssemblyReference.cache
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\WebApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\WebApp.Entities.AssemblyInfoInputs.cache
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\WebApp.Entities.AssemblyInfo.cs
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\WebApp.Entities.csproj.CoreCompileInputs.cache
+E:\Amnil\Internship\MovieApp\WebApp.Entities\bin\Debug\net7.0\WebApp.Entities.deps.json
+E:\Amnil\Internship\MovieApp\WebApp.Entities\bin\Debug\net7.0\WebApp.Entities.runtimeconfig.json
+E:\Amnil\Internship\MovieApp\WebApp.Entities\bin\Debug\net7.0\WebApp.Entities.dll
+E:\Amnil\Internship\MovieApp\WebApp.Entities\bin\Debug\net7.0\WebApp.Entities.pdb
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\WebApp.Entities.dll
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\refint\WebApp.Entities.dll
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\WebApp.Entities.pdb
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\WebApp.Entities.genruntimeconfig.cache
+E:\Amnil\Internship\MovieApp\WebApp.Entities\obj\Debug\net7.0\ref\WebApp.Entities.dll

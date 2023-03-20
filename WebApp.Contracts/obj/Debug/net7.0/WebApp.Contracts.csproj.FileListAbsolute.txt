@@ -1,0 +1,17 @@
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\bin\Debug\net7.0\WebApp.Contracts.deps.json
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\bin\Debug\net7.0\WebApp.Contracts.dll
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\bin\Debug\net7.0\WebApp.Contracts.pdb
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\bin\Debug\net7.0\WebApp.Entities.dll
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\bin\Debug\net7.0\WebApp.Entities.pdb
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\WebApp.Contracts.csproj.AssemblyReference.cache
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\WebApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\WebApp.Contracts.AssemblyInfoInputs.cache
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\WebApp.Contracts.AssemblyInfo.cs
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\WebApp.Contracts.csproj.CoreCompileInputs.cache
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\WebApp.Contracts.csproj.CopyComplete
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\WebApp.Contracts.dll
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\refint\WebApp.Contracts.dll
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\WebApp.Contracts.pdb
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\ref\WebApp.Contracts.dll
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\bin\Debug\net7.0\WebApp.Contracts.runtimeconfig.json
+E:\Amnil\Internship\MovieApp\WebApp.Contracts\obj\Debug\net7.0\WebApp.Contracts.genruntimeconfig.cache

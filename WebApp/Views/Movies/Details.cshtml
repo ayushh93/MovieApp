@@ -1,0 +1,92 @@
+﻿@model WebApp.Models.Movie
+
+@{
+    ViewData["Title"] = "Details";
+}
+<div class="section-padding">
+<h1 class="mb-4 text-white font-weight-bold">@Model.Title</h1>
+
+@*<div>
+    <h4>Movie</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Genre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Genre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ReleaseDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ReleaseDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Director)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Director)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Actors)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Actors)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Rating)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Rating)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Runtime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Runtime)min
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Plot)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Plot)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PosterURL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PosterURL)
+        </dd>
+    </dl>
+</div>
+<div>*@
+    <div class="row mb-2">
+        <div class="col-md-3">
+        <img decoding="async" src="@("~/uploads/"+Model.PosterURL)" asp-append-version="true" width="250px" class="mb-4"/>
+        </div>
+        <div class="col-md-9">
+            <p class="mb-3"><strong>Genre:</strong> @Model.Genre</p>
+        <p class="mb-3"><strong>Release Date: </strong>@Html.DisplayFor(modelItem => Model.ReleaseDate,"{0:d}")</p>
+        <p class="mb-3"><strong>Director:</strong> @Model.Director</p>
+        <p class="mb-3"><strong>Actors:</strong> @Model.Actors</p>
+        <p class="mb-3 align-items-center">
+            <strong>Rating:</strong> @Model.Rating
+            <img decoding="async" src="@("~/uploads/default/star-icon.webp")" asp-append-version="true" width="16px" />
+        </p>
+        <p class="mb-3"><strong>Runtime:</strong> @Model.Runtime min</p>
+        <p class="mb-3"><strong>Plot:</strong> @Model.Plot</p>
+        </div>
+    <p><a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> | <a asp-action="Index">Back to List</a></p>
+
+    </div>@*
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>*@
+</div>
+</div>
